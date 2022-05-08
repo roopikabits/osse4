@@ -6,7 +6,7 @@
 ## As part of this project, I have developed a simple login app using HTML, CSS and JavaScript.
 
 # loginapp
-This is a sample login app. This repo is used as a starter for a very basic HTML web application using no front-end frameworks.
+This is a sample login app. This repo is used as a starter for a very basic HTML web application using HTML, CSS and Javascript.
 
 # Success Scenario
 
